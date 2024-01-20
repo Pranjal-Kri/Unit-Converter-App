@@ -11,19 +11,12 @@ The Android Unit Converter App is a simple utility for converting various units 
 - Support for both metric and imperial units.
 - Supports dark mode and light mode.
 
-<!-- ## Screenshots
 
-![Screenshot 1](/Screenshots/1.jpg)
-![Screenshot 2](/Screenshots/2.jpg)
-![Screenshot 2](/Screenshots/3.jpg)
-![Screenshot 2](/Screenshots/4.jpg)
-![Screenshot 2](/Screenshots/5.jpg)
-![Screenshot 2](/Screenshots/6.jpg) -->
 ## Screenshots
 
 <div align="center">
   <img src="./Screenshots/1.jpg" alt="Screenshot 1" width="300" style = "margin: 10px"  />
-  <img src="./Screenshots/2.jpg" alt="Screenshot 2" width="300" style = "margin: 10px"  />
+  <img src="./Screenshots/2.png" alt="Screenshot 2" width="300" style = "margin: 10px"  />
 </div>
 
 <div align="center">
